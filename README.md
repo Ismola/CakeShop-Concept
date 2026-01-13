@@ -1,7 +1,7 @@
 # CakeShop
 
 
-## Link:https://ismola-restaurant.netlify.app/
+## Link: https://cakeshop.ismola.dev/
 
 ![Screenshot 2022-02-24 at 19-47-14 https ismola-restaurant netlify app](https://user-images.githubusercontent.com/60386407/155588083-8f961c4e-e0ca-4dc5-9235-77d78b6a9dbb.png)
 
