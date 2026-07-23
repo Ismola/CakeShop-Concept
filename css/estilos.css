@@ -112,12 +112,14 @@ header>div:nth-child(3) {
 
 }
 
-header>div:nth-child(3)>i {
+header>div:nth-child(3)>i,
+header>div:nth-child(3)>a {
     cursor: pointer;
-
+    color: inherit;
 }
 
-header>div:nth-child(3)>i:hover {
+header>div:nth-child(3)>i:hover,
+header>div:nth-child(3)>a:hover {
     filter: saturate(200%);
 }
 
